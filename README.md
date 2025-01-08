@@ -1,3 +1,5 @@
+Simplified version of instagram 
+
 A Simplified version of instagram built with using Node.js, Express, Sequelize, and Mysql.Thsi project allows users to Create a post,
 edit post , Delete Post Performed By RESTb APi
 
