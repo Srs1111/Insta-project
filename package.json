@@ -1,0 +1,25 @@
+{
+  "name": "simplified-instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
+    "sequelize": "^6.37.5",
+    "simplified-instagram": "file:"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
